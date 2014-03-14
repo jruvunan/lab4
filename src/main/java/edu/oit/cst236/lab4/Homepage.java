@@ -20,7 +20,7 @@ public class Homepage extends HttpServlet {
 	}
 	
 	public String getName() {
-		return "";
+		return "Jeremie , SaleForce office is cool";
 	}
 
 	public static void main(String[] args) throws Exception {
